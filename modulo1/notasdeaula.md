@@ -1,5 +1,7 @@
 # Notas de aula referentes ao módulo 1 do curso git e github da Womakerscode
 
-## Nota 1
+## instalacao do git 
 
-## Nota 2
+## configuracao do git
+
+## comandos
