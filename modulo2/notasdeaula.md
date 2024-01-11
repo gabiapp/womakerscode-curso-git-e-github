@@ -10,3 +10,5 @@ Nesta aula estamos aprendendo comandos essenciais para o uso doo software de ver
 
 ### git add .
 **adiciona todos os arquivoa para a esteira de commit**
+
+### git commit
